@@ -1,0 +1,16 @@
+{
+  "user": {
+    "age": 10,
+    "weight": 10,
+    "male": 1,
+    "female": 0,
+    "height": 180,
+    "dailydata": {
+      "heartRate":[],
+      "humidity": [],
+      "steps": [],
+      "temperature":[]
+    }
+  }
+}
+
